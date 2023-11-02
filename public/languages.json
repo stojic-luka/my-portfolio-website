@@ -1,0 +1,27 @@
+{
+  "game-launcher": {
+    "C#": 9502
+  },
+  "litcode-server": {
+    "Java": 31666,
+    "Rust": 1034,
+    "C++": 853,
+    "C#": 767,
+    "TypeScript": 710,
+    "Go": 654,
+    "JavaScript": 644,
+    "Python": 574
+  },
+  "litcode-website": {
+    "TypeScript": 6156,
+    "HTML": 366
+  },
+  "my-portfolio-website": {
+  },
+  "periodic-system-of-elements": {
+    "C#": 26568
+  },
+  "pypp": {
+    "C++": 99992
+  }
+}
